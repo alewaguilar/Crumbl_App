@@ -1,0 +1,246 @@
+:root{
+	--f7-theme-color:#EF87AE;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #010101 /*navbar link*/
+	--f7-navbar-text-color: #7C899F;
+	--f7-bars-bg-color: #EF87AE;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #010101; /*link toolbar*/
+	--f7-tabbar-link-active-color: #923859; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	--f7-card-bg-color: #f4f2f2a9;
+}
+
+body{
+	font-family:Helvetica;
+	color: #010101;
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+#user-info{
+	text-align: center;
+	font-size: 12px;
+}
+
+#user-info i{
+	font-size: 100px;
+}
+
+#panel-social{
+	text-align: center;
+}
+
+#panel-social img{
+	margin-top: 5%;
+}
+
+#panel-social i{
+	font-size: 35px;
+}
+
+#text-inicio{
+	color: #FFFFFF;
+	background-color: #010101;
+}
+
+#text-inicio h2{
+	font-size: 25px;
+}
+
+#text-inicio h3{
+	font-size: 15px;
+	font-weight: 400;
+}
+
+#menu-incio h2{
+	color: #010101;
+	font-size: 20px;
+}
+
+#menu-incio p{
+	font-size: 13px;
+}
+
+.toolbar-inner i{
+	color: #fff;
+}
+
+.toolbar-inner span{
+	color: #fff;
+}
+
+.login-screen-title{
+	color: #EF87AE;
+}
+
+#text-menu{
+	text-align: center;
+}
+
+#menu-incio .item-title{
+	text-align: center;
+	font-weight: 600;
+}
+
+.button{
+	font-weight: 600;
+}
+
+#text-cookie h4{
+	color: #8A8A8A;
+	font-size: 15px;
+}
+
+#text-cookie h2{
+	color: #010101;
+	font-size: 40px;
+}
+
+#text-cookie p{
+	color: #8A8A8A;
+	font-size: 17px;
+}
+
+#text-order{
+	background-color: #010101;
+}
+
+#text-order h2{
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+}
+
+#selection-order{
+	text-align: center;
+}
+
+#selection-order p{
+	color: #8A8A8A;
+	font-size: 15px;
+}
+
+.list .item-content{
+	justify-content: space-between;
+}
+
+.item-media-order i{
+	color: #EF87AE;
+	font-size: 37px;
+}
+
+.item-inner .item-title{
+	font-weight: 600;
+}
+
+.card{
+	margin-bottom: 20px;
+	padding: 7px 0;
+}
+
+#title-delivery h2{
+	text-align: center;
+	font-weight: 900;
+}
+
+#cookie-select{
+	text-align: center;
+}
+
+#cookie-select h2{
+	font-weight: 800;
+}
+
+#cookie-select h4{
+	color: #8A8A8A;
+}
+
+#cookie-select p{
+	color: #EF87AE;
+	font-weight: 700;
+}
+
+.demo-card-header-pic .card-header {
+	height: 80vw;
+	background-size: cover;
+	background-position: center;
+	color: #fff;
+  }
+
+  .link{
+	text-align: center;
+  }
+
+  #frase{
+	text-align: center;
+  }
+
+  #developers{
+	background-color: #010101;
+	text-align: center;
+	color: #fff;
+  }
+
+  #team{
+	text-align: center;
+  }
+
+  #team h3{
+	color: #EF87AE;
+  }
+
+  #payments span{
+	color: #EF87AE;
+  }
+
+  #text-store h3{
+	text-align: center;
+	font-weight: 700;
+	font-size: 17px;
+  }
+
+  #categories p{
+	text-align: center;
+	font-size: 10px;
+	color:#8A8A8A;
+  }
+
+  #text-store h4{
+	text-align: center;
+	color: #EF87AE;
+	font-weight: 700;
+	font-size: 15px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
